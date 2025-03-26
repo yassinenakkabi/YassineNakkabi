@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning advanced cloud infrastructure & security best practices<br>🎯 Goals: Automate everything & contribute to open-source projects<br>🎲 Fun fact: I talk to my code like it can hear me... and sometimes, it listens!</p>
+<p align="left">🤝 I’m willing and happy to Help anytime<br>📚 I'm currently learning advanced cloud infrastructure & security best practices<br>🎯 Goals: Automate everything & contribute to open-source projects<br>📫 You can reach me at yassinenakkabi@uit.ac.ma</p>
 
 ###
 
