@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yassine, and I'm a DevOps Engineer & MERN Stack Developer <br>Passionate about automation, CI/CD, and scalable web applications. Skilled in Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions. Experienced in building and deploying robust MERN stack applications. Always learning, always optimizing!<br><br>#DevOps #MERN #CI/CD #Kubernetes #Cloud #Automation</p>
+<p align="left">My name is Yassine, and I'm a DevOps Engineer <br>Passionate about automation, CI/CD, and scalable infrastructure. Skilled in Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions. Experienced in building and deploying robust cloud-native systems. Always learning, always optimizing!<br><br>#DevOps #CI/CD #Kubernetes #Cloud #Automation</p>
 
 ###
 
@@ -12,7 +12,6 @@
 
 <p align="left">🤝 I’m willing and happy to Help anytime<br>📚 I'm currently learning advanced cloud infrastructure & security best practices<br>🎯 Goals: Automate everything & contribute to open-source projects<br>📫 You can reach me at yassinenakkabi@uit.ac.ma</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
